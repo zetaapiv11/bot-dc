@@ -8,7 +8,7 @@
 
 module.exports = {
     // Token bot Discord kamu (dari Discord Developer Portal)
-    token: "MTU0NDg2ODQ3NDUzMzE5MTcwMA.GvIqLV.GSXFQXPHi0FQys-X8ir78VY0fOyISFpsMMBLA8",
+    token: "MTU0NDg2ODQ3NDUzMzE5MTcwMA.GNB_zw.iYJVm_DDYVHqrqbm3dam1JM1S-pu0vAdi38TRY",
 
     // Client ID bot (dibutuhkan untuk registrasi slash command)
     clientId: "1544868474533191700",
